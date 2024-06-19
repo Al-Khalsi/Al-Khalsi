@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :‌ id Telegram => @Al-Khalsi
+- 🏠 My place of residence : I live in Iran and I am originally from an Arab country 😉
 - ⚡ Fun fact : At the age of 15, I got acquainted with the C language through a game, and then I learned JavaScript😄
 
 <!---
