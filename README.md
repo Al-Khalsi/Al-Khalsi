@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A humble learner constantly learning new things!</h3>
 
 💫 About Me: <br>
-💻 I’m looking to collaborate on large-scale projects.<br>🌱 I recently learned **Reactive Programming with Spring WebFlux**!<br>💬 Ask me about _**Java, Spring Boot, Spring Security, Spring Data JPA, Spring WebFlux, Spring Security by WebFlux, Microservices, Apache Kafka**_.<br>⚡ Fun fact: we programmers community are always in the cycle of learning 😂.<br>📫 How to reach me: _sayedxali7@gmail.com_
+💻 I’m looking to collaborate on large-scale projects.<br>🌱 I recently learned **Reactive Programming with NextJS**!<br>💬 Ask me about _**JavaScript, TypeScript, ReactJS, NextJS**_.<br>⚡ Fun fact: we programmers community are always in the cycle of learning 😂.<br>📫 How to reach me: ...
 
 <!--# 💻 Tech Stack:
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
