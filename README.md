@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, PC Games and Anime
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:‌ id telegram => @Al-Khalsi
+- 📫 How to reach me:‌ id Telegram => @Al-Khalsi
 - ⚡ Fun fact: At the age of 15, I got acquainted with the C language through a game, and then I learned JavaScript
 
 <!---
