@@ -87,9 +87,7 @@ You can click the Preview link to take a look at your changes.
 ---
 [![](https://visitcount.itsvg.in/api?id=Al-Khalsi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/><br/> <!-- snake -->
-<!-- ![Snake animation](https://github.com/seyedali-dev/seyedali-dev/blob/output/github-contribution-grid-snake.svg) -->
-<img src="https://raw.githubusercontent.com/al-khalsi/al-khalsi/output/snake.svg" alt="Snake animation" />
+<br/><br/> 
 
 <!-- Blogs -->
 ### Blogs posts
