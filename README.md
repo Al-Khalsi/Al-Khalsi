@@ -87,16 +87,4 @@ You can click the Preview link to take a look at your changes.
 ---
 [![](https://visitcount.itsvg.in/api?id=Al-Khalsi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/><br/> 
-
-<!-- Blogs -->
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Test](https://dev.to/Al-Khalsi/test-9gp)
-<!-- BLOG-POST-LIST:END -->
-
-### ✍️ Random Dev Quote<br>
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
