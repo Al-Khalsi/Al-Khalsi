@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Al-Khalsi
 - 👀 I’m interested in Programming, PC Games and Anime
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :‌ id Telegram => @Al-Khalsi
 
